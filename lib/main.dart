@@ -4,6 +4,7 @@ void main() {
   runApp(new MaterialApp(
     title: 'Screens',
     home: new Home(),
+    debugShowCheckedModeBanner: false
   ));
 }
 
